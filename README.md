@@ -1,7 +1,6 @@
 # node WiFiScanner
 
-Node WiFiScanner is a nodejs module that uses the OS utility to scan WiFi access
-points.
+Scan surrounding WiFi access points with NodeJS.
 
 On Mac, it will use the `airport` command.
 On Linux, il will use `iwlist` command.

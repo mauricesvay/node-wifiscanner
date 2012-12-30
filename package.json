@@ -1,7 +1,7 @@
 {
 	"name" : "node-wifiscanner",
     "version" : "0.0.1",
-    "description" : "Scan WiFi accesspoints",
+    "description" : "Scan surrounding WiFi access points",
     "author": "Maurice Svay <maurice@svay.com>",
     "main": "./wifiscanner",
     "repository": {
