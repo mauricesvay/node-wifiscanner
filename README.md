@@ -3,7 +3,7 @@
 Scan surrounding WiFi access points with NodeJS.
 
 On Mac, it will use the `airport` command.
-On Linux, il will use `iwlist` command.
+On Linux, il will use the `iwlist` command.
 
 How to use :
 
