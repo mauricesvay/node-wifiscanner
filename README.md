@@ -19,8 +19,8 @@ How to use :
 
 		console.log(data);
 	});
-	
-Scanning surrounding WiFi access points is usefull for getting geolocation. See `geolocation.js` for an example.
+
+Scanning surrounding WiFi access points is useful for getting geolocation. See `geolocation.js` for an example.
 
 ## Author
 
