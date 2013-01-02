@@ -22,6 +22,8 @@ How to use :
 
 Scanning surrounding WiFi access points is useful for getting geolocation. See `geolocation.js` for an example.
 
+Similar project : [node_wifi_location](https://github.com/swdyh/node_wifi_location)
+
 ## Author
 
 * Maurice Svay <maurice@svay.com>, [http://svay.com](http://svay.com)
