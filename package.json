@@ -3,7 +3,7 @@
     "version" : "0.0.1",
     "description" : "Scan surrounding WiFi access points",
     "author": "Maurice Svay <maurice@svay.com>",
-    "main": "./wifiscanner",
+    "main": "./lib/wifiscanner",
     "repository": {
         "type": "git",
         "url": "git://https://github.com/mauricesvay/node-wifiscanner.git"
