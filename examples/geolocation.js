@@ -1,6 +1,6 @@
 var querystring = require('querystring');
 var https = require('https');
-var wifiscanner = require('./wifiscanner.js');
+var wifiscanner = require('../lib/wifiscanner.js');
 
 function buildRequestOptions(cells) {
     var maxCells = 10;

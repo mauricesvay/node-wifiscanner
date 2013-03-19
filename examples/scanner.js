@@ -1,4 +1,4 @@
-var wifiscanner = require('./wifiscanner.js');
+var wifiscanner = require('../lib/wifiscanner.js');
 
 wifiscanner.scan(function(err, data){
 	if (err) {
