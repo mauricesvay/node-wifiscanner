@@ -1,8 +1,14 @@
 # node WiFiScanner
 
+## Installing
+
+    npm install node-wifiscanner
+
+## About
+
 Scan surrounding WiFi access points with NodeJS.
 
-On Mac, it will use the `airport` command.
+On Mac, it will use the `airport` command.  
 On Linux, il will use the `iwlist` command (may require root privileges).
 
 How to use :
