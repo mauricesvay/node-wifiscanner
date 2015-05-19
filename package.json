@@ -1,11 +1,17 @@
 {
-	"name" : "node-wifiscanner",
-    "version" : "0.2.0",
-    "description" : "Scan surrounding WiFi access points",
-    "author": "Maurice Svay <maurice@svay.com>",
-    "main": "./lib/wifiscanner",
-    "repository": {
-        "type": "git",
-        "url": "git://https://github.com/mauricesvay/node-wifiscanner.git"
-    }
+  "name": "node-wifiscanner",
+  "version": "0.2.0",
+  "description": "Scan surrounding WiFi access points",
+  "author": "Maurice Svay <maurice@svay.com>",
+  "main": "./lib/wifiscanner",
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/mauricesvay/node-wifiscanner.git"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha tests/*.js"
+  }
 }
