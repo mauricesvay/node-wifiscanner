@@ -6,7 +6,7 @@
   "main": "./lib/wifiscanner",
   "repository": {
     "type": "git",
-    "url": "git://https://github.com/mauricesvay/node-wifiscanner.git"
+    "url": "https://github.com/mauricesvay/node-wifiscanner.git"
   },
   "devDependencies": {
     "mocha": "^2.2.5"
