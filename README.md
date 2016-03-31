@@ -6,6 +6,10 @@
 
 ## About
 
+##CHANGES
+poorly added 'wifiscanner.current' function in order to show the current connection. 
+
+
 Scan surrounding WiFi access points with NodeJS.
 
 On Mac, it will use the `airport` command.  
