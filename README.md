@@ -16,7 +16,7 @@ How to use :
 
 	// scanner.js
 
-	var wifiscanner = require('./wifiscanner.js');
+	var wifiscanner = require('node-wifiscanner');
 
 	wifiscanner.scan(function(err, data){
 		if (err) {
